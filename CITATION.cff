@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this educational course, please cite it as follows."
+title: "DNA Paternity Testing Course"
+authors:
+  - family-names: KAMA
+    given-names: Manuel
+repository-code: "https://github.com/Manuelkama/dna-paternity-testing-course"
+type: software
+license: CC-BY-NC-4.0
+abstract: "A step-by-step course that teaches DNA inheritance, STR markers, sample records, laboratory testing concepts, DNA profile comparison, basic calculations, and report writing using made-up examples."

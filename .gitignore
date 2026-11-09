@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+*.fsa
+*.ab1
+*.fastq
+*.bam
+*.cram
+*.vcf
+# Do not commit real human genetic data or identifiable case records.
